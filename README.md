@@ -1,4 +1,4 @@
-# Linkly - Link In Bio Tool
+# 🖇️ Linkly - Link In Bio Tool
 
 ## 📌 Overview
 Linkly is a **Next.js**-based **Link in Bio Tool** (A Linktree Clone) that allows users to create a custom page for their links. With **MongoDB** for storage and **Tailwind CSS** for styling, it provides a seamless experience for managing and sharing multiple links from a single, customizable profile.  
